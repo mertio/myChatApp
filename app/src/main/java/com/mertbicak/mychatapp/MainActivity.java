@@ -28,9 +28,11 @@ import java.net.InetAddress;
 import java.net.UnknownHostException;
 
 
+// mertttt
+
 public class MainActivity extends AppCompatActivity {
 
-
+    private int x = 0;
     public static XMPPTCPConnection connection;
 
     @Override
@@ -83,4 +85,4 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
-}
+
