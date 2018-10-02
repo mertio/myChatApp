@@ -32,7 +32,6 @@ import java.net.UnknownHostException;
 
 public class MainActivity extends AppCompatActivity {
 
-    private int x = 0;
     public static XMPPTCPConnection connection;
 
     @Override
